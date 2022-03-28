@@ -1,3 +1,36 @@
 body {
-    background: grey;
+    background: rgba(128, 128, 128, 0.849);
+  }
+
+  #image-code {
+      border-radius: 8px;
+      max-width: 70%;
+    height: auto;
+  }
+
+  #image-five {
+    border-radius: 8px;
+    max-width: 50%;
+    height: auto;
+  }
+
+  p {
+      font-size: medium;
+      color: black;
+      max-width: 100%;
+      text-align: center;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    display: inline-block; 
+} 
+
+  * {
+      text-align: center;
   }
